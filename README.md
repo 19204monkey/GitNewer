@@ -1,2 +1,1 @@
-# GitNewer
-Git练习
+Git is very easy! Practice more!
